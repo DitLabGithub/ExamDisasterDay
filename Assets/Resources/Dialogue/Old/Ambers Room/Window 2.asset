@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a600524cb75543f4cbcae7cb9878b832, type: 3}
+  m_Name: Window 2
+  m_EditorClassIdentifier: 
+  personName: Amber
+  sprite: {fileID: 0}
+  text: Oh man, it's pretty high up, guess we're testing to see if the fire escape
+    works!
+  hasDialoguePartner: 0
+  partnerName: 
+  sprite2: {fileID: 0}
+  isEndOfDialogue: 1
+  nextDialogue: {fileID: 11400000, guid: fb78a070c5724d44b9016efc6458e92d, type: 2}
+  goNextScene: 1
+  nextScenePrefab: {fileID: 1059467749336661701, guid: e4a5ac9496e892642b382caeca422b33, type: 3}

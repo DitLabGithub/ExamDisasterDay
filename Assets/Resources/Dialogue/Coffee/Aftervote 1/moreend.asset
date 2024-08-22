@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a600524cb75543f4cbcae7cb9878b832, type: 3}
+  m_Name: moreend
+  m_EditorClassIdentifier: 
+  personName: Anna
+  sprite: {fileID: 21300000, guid: f7197314fbc4aa443a1e6ac493d1a572, type: 3}
+  text: crazy how that works
+  hasDialoguePartner: 0
+  partnerName: 
+  sprite2: {fileID: 0}
+  isEndOfDialogue: 1
+  nextDialogue: {fileID: 0}
+  goNextScene: 1
+  nextScenePrefab: {fileID: 2452655347140230991, guid: 697e686ab32b7e040b8449469663d7af, type: 3}

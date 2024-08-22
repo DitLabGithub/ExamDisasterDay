@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a600524cb75543f4cbcae7cb9878b832, type: 3}
+  m_Name: Uni SSI Chat 14
+  m_EditorClassIdentifier: 
+  personName: Alex
+  sprite: {fileID: 21300000, guid: aedd5adcfb3a85d438fcde4ee5a4bb30, type: 3}
+  text: 'LOL. Anyways, I gotta go. I''ll catch ya later. '
+  hasDialoguePartner: 0
+  partnerName: 
+  sprite2: {fileID: 0}
+  isEndOfDialogue: 0
+  nextDialogue: {fileID: 11400000, guid: 0f942b2834aa5664a90a1475162ef5d8, type: 2}
+  goNextScene: 0
+  nextScenePrefab: {fileID: 0}

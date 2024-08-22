@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a600524cb75543f4cbcae7cb9878b832, type: 3}
+  m_Name: Cat 3
+  m_EditorClassIdentifier: 
+  personName: 
+  sprite: {fileID: 21300000, guid: 2d4592f8191ca6d4fb7726e0afea451d, type: 3}
+  text: This is the Netherlands and it is a triple paned window, your fist breaks
+    against the mighty glass.
+  hasDialoguePartner: 0
+  partnerName: 
+  sprite2: {fileID: 0}
+  isEndOfDialogue: 0
+  nextDialogue: {fileID: 11400000, guid: 2e8ef0c26b4a8b349a5fe7683cefa9b9, type: 2}
+  goNextScene: 0
+  nextScenePrefab: {fileID: 0}
